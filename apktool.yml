@@ -1,0 +1,12 @@
+version: 1.5.2
+apkFileName: SudburyTaxi.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: '3'
+packageInfo:
+  cur_package: appinventor.ai_m_hanhimaki.SudburyTaxi
+  orig_package: appinventor.ai_m_hanhimaki.SudburyTaxi
+compressionType: false
